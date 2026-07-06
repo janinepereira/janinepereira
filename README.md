@@ -64,6 +64,6 @@ Os repositórios deste perfil representam aprendizado contínuo e aplicação pr
 ---
 Estou aberta a trocar ideias sobre Qualidade de Software, automação, ferramentas de teste e viagens!
 
-<a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+<a href="www.linkedin.com/in/jpereiraalmeida" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
