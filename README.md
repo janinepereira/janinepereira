@@ -7,10 +7,10 @@ Profissional de Quality Assurance focada em garantir a excelência e a estabilid
 Atualmente desenvolvo projetos de automação robustos e dinâmicos, com foco em testes End-to-End (E2E), testes de API e performance, buscando sempre escalar a cobertura de testes e otimizar processos.
 
 Tenho interesse especial em:
-* Automação de Testes E2E com **Cypress**
+* Automação de Testes E2E com **Cypress** e **Robot Framework**
 * Geração de massa de dados e testes orientados a dados (*Data-Driven Testing*)
 * Behavior-Driven Development (**BDD**) com **Gherkin**
-* Testes de API com **Rest Assured**
+* Testes de API com **Rest Assured**, **Postman** e **Insomnia**
 * Testes de Performance com **JMeter**
 
 Minha visão é voltada para a prevenção de falhas desde o início do desenvolvimento, garantindo entregas de alto valor e melhor experiência para o usuário final.
@@ -22,12 +22,15 @@ Minha visão é voltada para a prevenção de falhas desde o início do desenvol
 <p align="left">
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress" />
   <img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/-Robot%20Framework-%23000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
-### ⚙️ API & Performance
+### ⚙️ API & Desempenho
 <p align="left">
   <img src="https://img.shields.io/badge/-Rest%20Assured-43B02A?style=for-the-badge&logo=java&logoColor=white" alt="Rest Assured" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
   <img src="https://img.shields.io/badge/-JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
 </p>
 
@@ -36,7 +39,12 @@ Minha visão é voltada para a prevenção de falhas desde o início do desenvol
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
 </p>
+
+🗣️ **Idiomas**
+---
+* **Inglês:** Business focado em (Leitura, Escrita e Conversação)
 
 📁 **Projetos**
 ---
